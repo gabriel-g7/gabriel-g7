@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Githinji
 - 👀 I’m interested in machine learning and web development
-- 💞️ I’m looking to collaborate on any available projects
+- 💞️ I’m looking to collaborate on this and that
 - 📫 How to reach me gabrielgithinji7@gmail.com
 
 <!---
